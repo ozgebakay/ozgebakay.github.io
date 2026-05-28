@@ -1,10 +1,11 @@
 # Site settings
-title: Your name here
-general_email: your_general_email@gmail.com
-academic_email: your_academic_email@univ
+title: Özge Bakay
+general_email: bakayozge@gmail.com
+academic_email: obakay@umass.edu
 
 description: > # this means to ignore newlines until "baseurl:"
-  Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
+  Hello!
+  I am a fifth-year PhD student in Linguistics at the University of Massachusetts Amherst. My main interest lies in psycholinguistics, with a focus on how people understand language in real-time. I also have a secondary interest in computational linguistics.
 
 baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 
