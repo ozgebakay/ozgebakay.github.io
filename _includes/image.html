@@ -1,6 +1,13 @@
 <dl id="" class="wp-caption align{{include.align}}" style="max-width: {{include.width}}px">
 
-<dt><a href="{{ site.baseurl }}{{ include.href }}"><img class="" src="{{ site.baseurl }}{{ include.url }}" alt="{{ include.caption }}" height="{{ include.height }}" /></a></dt>
+<dt>
+  <a href="{{ site.baseurl }}{{ include.href }}">
+    <img class="" 
+         src="{{ site.baseurl }}{{ include.url }}" 
+         alt="{{ include.caption }}" 
+         style="width: 100%; height: {{ include.height }}px; object-fit: cover;" />
+  </a>
+</dt>
 
 <dd>{{ include.caption }}</dd>
 </dl>
