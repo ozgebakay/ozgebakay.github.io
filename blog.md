@@ -1,21 +1,23 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Teaching
+permalink: /teaching/
 ---
 
-Here are my carefully compiled views on some topics that I encountered so far. Hopefully, you will find them helpful! You can also search my posts by category <a href="{{ site.baseurl }}/categories/">here</a>.
+Linguistics 
 
-<ul class="listing">
-{% for post in site.posts %}
-  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
-  {% if year != y %}
-    {% assign year = y %}
-    <li class="listing-seperator">{{ y }}</li>
-  {% endif %}
-  <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+TA for LING301 Introduction to Syntax, Fall 2025 (Instructor: Kyle Johnson).
+
+TA for LING301 Introduction to Syntax, Spring 2025 (Instructor: Faruk Akkuş).
+
+TA for LING412 Language Processing and the Brain, Fall 2024 (Instructor: Shota Momma).
+
+TA for LING394BIE Language and Cognition, Spring 2024 (Instructor: John Kingston).
+
+TA for LING101 People and Their Language, Fall 2023 (Instructor: Rajesh Bhatt). The materials of Discussion Sections AA & AE are here.
+
+Language Teaching
+
+Instructor (2018-2025) and TA (2015-2017) of Turkish for foreigners at Turkish Language and Culture Program at Boğaziçi University, İstanbul, Turkey.
+
+Instructor of English for foreigners at Bahçeşehir University, İstanbul, Turkey, 2020-2021
