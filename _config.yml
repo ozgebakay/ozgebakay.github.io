@@ -7,9 +7,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Hello!
   I am a fifth-year PhD student in Linguistics at the University of Massachusetts Amherst. My main interest lies in psycholinguistics, with a focus on how people understand language in real-time. I also have a secondary interest in computational linguistics.
 
-baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "https://ys1998.github.io" # the base hostname & protocol for your site
+url: "https://ozgebakay.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
 github_username: github_username
