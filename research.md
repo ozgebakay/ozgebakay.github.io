@@ -38,7 +38,7 @@ title: Research
 	</li>
 	<br>
 	<li>
-		<b>Bakay, Ö.</b>, &amp; Oğuz, M. (2024). Investigating syntactic effects in NPI illusions in Turkish. <i>Proceedings of the 9th Workshop on Turkic and Languages in contact with Turkic (Tu+)</i>. <a href="https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/5763">link</a>
+		<b>Bakay, Ö.</b>, &amp; Oğuz, M. (2024). Investigating syntactic effects in NPI illusions in Turkish. <i>Proceedings of the 9th Workshop on Turkic and Languages in contact with Turkic (Tu+)</i>, pp. 1-15. <a href="https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/5763">link</a>
 	</li>
 	<br>
 	<li>
