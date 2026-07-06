@@ -26,7 +26,7 @@ title: Research
 <h2>Peer-reviewed Conference Proceedings</h2>
 <ul>
 	<li>
-		Bakay, Ö., Yıldız, O. K., Bhatt, R., Dillon, B., &amp; Yıldız, O. T. (2026). From Dependency to CCG to Incremental CCG: Approaches for flexible word order in Turkish. <i>Proceedings of the 30th Conference on Computational Natural Language Learning (CoNLL)</i>, pp. 601-612. <a href="https://aclanthology.org/2026.conll-main.36.pdf">link</a>
+		<b>Bakay, Ö.</b>, Yıldız, O. K., Bhatt, R., Dillon, B., &amp; Yıldız, O. T. (2026). From Dependency to CCG to Incremental CCG: Approaches for flexible word order in Turkish. <i>Proceedings of the 30th Conference on Computational Natural Language Learning (CoNLL)</i>, pp. 601-612. <a href="https://aclanthology.org/2026.conll-main.36.pdf">link</a>
 	</li>
 	<br>
 	<li>
@@ -42,7 +42,7 @@ title: Research
 	</li>
 	<br>
 	<li>
-		Öksal, C., Oğuz, H. N., Bakay, Ö., &amp; Yıldız, O. T. (2022). Time Travel in Turkish: WordNets for Modern Turkish. <i>Proceedings of Globalex Workshop on Linked Lexicography within the 13th Language Resources and Evaluation Conference (LREC)</i>, pp. 75–84. <a href="https://aclanthology.org/2022.gwll-1.11">link</a>
+		Öksal, C., Oğuz, H. N., <b>Bakay, Ö.</b>, &amp; Yıldız, O. T. (2022). Time Travel in Turkish: WordNets for Modern Turkish. <i>Proceedings of Globalex Workshop on Linked Lexicography within the 13th Language Resources and Evaluation Conference (LREC)</i>, pp. 75–84. <a href="https://aclanthology.org/2022.gwll-1.11">link</a>
 	</li>
 	<br>
 	<li>
@@ -79,19 +79,6 @@ title: Research
 	<br>
 	<li>
 		Ak, K., <b>Bakay, Ö.</b>, &amp; Yıldız, O. T. (2018). Comparison of Turkish Proposition Banks by Frame Matching. <i>Proceedings of the 3rd International Conference on Computer Science and Engineering (UBMK)</i>, pp. 352-356. <a href="https://doi.org/10.1109/UBMK.2018.8566426">link</a>
-	</li>
-	<br>
-</ul>
-
-<h2>Research Implementations</h2>
-<ul>
-	<li>
-		<b>Title #1</b>: Brief description of this research implementation.<br>
-		<div class="button-container" style="margin-top: 5px;">
-			<a href=""><div class="color-button" style="display:inline-block;">paper</div></a>
-			<a href=""><div class="color-button" style="display:inline-block;">report</div></a>
-			<a href=""><div class="color-button" style="display:inline-block;">code</div></a>
-		</div>
 	</li>
 	<br>
 </ul>
