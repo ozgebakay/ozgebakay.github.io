@@ -15,24 +15,20 @@ Describe your research interests here.
 	</li>
 	<br>
 	<li>
-		Deniz, N. D., <b>Bakay, Ö.</b>, & Kurt, D. (2023). (Reversed) Mismatch Asymmetry in English Subject-Verb Agreement. <i>Dilbilim Araştırmaları Dergisi [Journal of Linguistics Research]</i>, 34(1), 1–26. <a href="http://doi.org/10.18492/dad.1181172">link</a>
+		Deniz, N. D., <b>Bakay, Ö.</b>, &amp; Kurt, D. (2023). (Reversed) Mismatch Asymmetry in English Subject-Verb Agreement. <i>Dilbilim Araştırmaları Dergisi [Journal of Linguistics Research]</i>, 34(1), 1–26. <a href="http://doi.org/10.18492/dad.1181172">link</a>
 		<div class="button-container" style="margin-top: 5px;">
 		</div>
 	</li>
 	<br>
 	<li>
-		<b>Bakay, Ö.</b>, Avar, B. & Yıldız, O. T. (2019). A tree-based approach for English-to-Turkish translation. <i>Turkish Journal of Electrical Engineering & Computer Sciences, 27</i>(1), 437-452. <a href="http://doi.org/10.3906/elk-1807-341"">link</a>
+		<b>Bakay, Ö.</b>, Avar, B. & Yıldız, O. T. (2019). A tree-based approach for English-to-Turkish translation. <i>Turkish Journal of Electrical Engineering & Computer Sciences, 27</i>(1), 437-452. <a href="http://doi.org/10.3906/elk-1807-341">link</a>
 	</li>
 </ul>
 
 <h2>Peer-reviewed Conference Proceedings</h2>
 <ul>
 	<li>
-		Bakay, Ö., &amp; Co-author, A. (Year). Title of the conference paper. In <i>Proceedings of the Annual Conference of Computational Linguistics</i> (pp. 45–52). Publisher Name.
-		<div class="button-container" style="margin-top: 5px;">
-			<a href="/assets/pdfs/conference-paper-1.pdf"><div class="color-button" style="display:inline-block;">report</div></a>
-			<a href="https://github.com/yourusername/proceedings-code"><div class="color-button" style="display:inline-block;">code</div></a>
-		</div>
+		<b>Bakay, Ö.</b>, Yıldız O. K., Bhatt, R., Dillon, B. &amp; Yıldız, O. T. (2026). From Dependency to CCG to Incremental CCG: Approaches for flexible word order in Turkish. Proceedings of the 30th Conference on Computational Natural Language Learning (CoNLL), pp. 601-612. <a href="https://aclanthology.org/2026.conll-main.36.pdf">link</a>
 	</li>
 	<br>
 </ul>
