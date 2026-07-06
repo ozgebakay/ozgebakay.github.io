@@ -9,20 +9,20 @@ Describe your research interests here.
 <h2>Journal Articles</h2>
 <ul>
 	<li>
-		Bakay, Ö., Akkuş, F., & Dillon, B. (2026). Hierarchical relations guide memory retrieval in sentence comprehension: Evidence from a local anaphor in Turkish. Journal of Memory and Language, 148. 104747. https://doi.org/10.1016/j.jml.2026.104747
+		<b>Bakay, Ö.</b>, Akkuş, F., & Dillon, B. (2026). Hierarchical relations guide memory retrieval in sentence comprehension: Evidence from a local anaphor in Turkish. <i>Journal of Memory and Language, 148</i>. 104747. https://doi.org/10.1016/j.jml.2026.104747
 		<div class="button-container" style="margin-top: 5px;">
 		</div>
 	</li>
 	<br>
 	<li>
-		Bakay, Ö., &amp; Collaborator, C. (Year). Another journal article title here. <i>Psycholinguistics Journal</i>, <i>12</i>(3), 145–160.
+		Deniz, N. D., <b>Bakay, Ö.</b>, & Kurt, D. (2023). (Reversed) Mismatch Asymmetry in English Subject-Verb Agreement. <i>Dilbilim Araştırmaları Dergisi [Journal of Linguistics Research]</i>, 34(1), 1–26. https://doi.org/http://doi.org/10.18492/dad.1181172
 		<div class="button-container" style="margin-top: 5px;">
-			<a href="/assets/pdfs/your-paper-2.pdf"><div class="color-button" style="display:inline-block;">pdf</div></a>
-			<a href="#bibtex-id-2"><div class="color-button" style="display:inline-block;">cite</div></a>
-			<a href="https://github.com/yourusername/project-repo2"><div class="color-button" style="display:inline-block;">code</div></a>
 		</div>
 	</li>
 	<br>
+	<li>
+		<b>Bakay, Ö.</b>, Avar, B. & Yıldız, O. T. (2019). A tree-based approach for English-to-Turkish translation. <i>Turkish Journal of Electrical Engineering & Computer Sciences, 27</i>(1), 437-452. https://doi.org/10.3906/elk-1807-341
+	</li>
 </ul>
 
 <h2>Peer-reviewed Conference Proceedings</h2>
