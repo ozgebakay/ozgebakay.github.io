@@ -21,14 +21,18 @@ Describe your research interests here.
 	</li>
 	<br>
 	<li>
-		<b>Bakay, Ö.</b>, Avar, B. & Yıldız, O. T. (2019). A tree-based approach for English-to-Turkish translation. <i>Turkish Journal of Electrical Engineering & Computer Sciences, 27</i>(1), 437-452. <a href="http://doi.org/10.3906/elk-1807-341">link</a>
+		<b>Bakay, Ö.</b>, Avar, B. &amp; Yıldız, O. T. (2019). A tree-based approach for English-to-Turkish translation. <i>Turkish Journal of Electrical Engineering & Computer Sciences, 27</i>(1), 437-452. <a href="http://doi.org/10.3906/elk-1807-341">link</a>
 	</li>
 </ul>
 
 <h2>Peer-reviewed Conference Proceedings</h2>
 <ul>
 	<li>
-		<b>Bakay, Ö.</b>, Yıldız O. K., Bhatt, R., Dillon, B. &amp; Yıldız, O. T. (2026). From Dependency to CCG to Incremental CCG: Approaches for flexible word order in Turkish. Proceedings of the 30th Conference on Computational Natural Language Learning (CoNLL), pp. 601-612. <a href="https://aclanthology.org/2026.conll-main.36.pdf">link</a>
+		<b>Bakay, Ö.</b>, Yıldız O. K., Bhatt, R., Dillon, B. &amp; Yıldız, O. T. (2026). From Dependency to CCG to Incremental CCG: Approaches for flexible word order in Turkish. <i>Proceedings of the 30th Conference on Computational Natural Language Learning (CoNLL)</i>, pp. 601-612. <a href="https://aclanthology.org/2026.conll-main.36.pdf">link</a>
+	</li>
+	<br>
+	<li>
+		Türk, U., Neu, E., <b>Bakay, Ö.</b>, Dillon, B., &amp; Jarosz, G. (2026). Frequency modulates structural choice in Turkish suspended affixation: a latent-process account. <i>Proceedings of the 9th Society for Computation in Linguistics (SCiL)</i>, pp. 343-352. <a href="https://aclanthology.org/2026.scil-main.32.pdf">link</a>
 	</li>
 	<br>
 </ul>
