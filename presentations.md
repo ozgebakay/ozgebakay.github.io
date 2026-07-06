@@ -4,7 +4,7 @@ permalink: /presentations/
 title: Presentations
 ---
 Selected presentations from peer-reviewed conferences (see my CV for the full list)
-	<h2>Presentations</h2>
+
 <ul>
 	<li>
 		Calderón Corona, M., &amp; <b>Bakay, Ö.</b> (Upcoming). Resolving semantic ambiguity via agreement: The case of Spanish adjectival conjuncts. Presentation at the 31st Sinn und Bedeutung (SuB). <a href="/projects/your-file-name.pdf">poster</a>
