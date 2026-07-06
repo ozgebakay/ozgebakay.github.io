@@ -15,11 +15,11 @@ Selected presentations from peer-reviewed conferences (see my CV for the full li
 	</li>
 	<br>
 	<li>
-		<b>Bakay, Ö.</b>, Burnsky, J., Keshev, M., Asatryan, M., Johnson, K., &amp; Dillon, B. (2023). Predicting disjoint reference: offline and online evidence. Presentation at the 36th Annual Conference on Human Sentence Processing (HSP), University of Pittsburgh. <a href="/projects/your-file-name.pdf">poster</a>
+		<b>Bakay, Ö.</b>, &amp; Akkuş, F. (2025). An experimental investigation of conjunct agreement in Turkish. Presentation at the 10th Workshop on Turkic and Languages in Contact with Turkic (Tu+), University of Southern California. <a href="/projects/your-file-name.pdf">slides</a>
 	</li>
 	<br>
 	<li>
-		<b>Bakay, Ö.</b>, &amp; Akkuş, F. (2025). An experimental investigation of conjunct agreement in Turkish. Presentation at the 10th Workshop on Turkic and Languages in Contact with Turkic (Tu+), University of Southern California. <a href="/projects/your-file-name.pdf">slides</a>
+		<b>Bakay, Ö.</b>, Burnsky, J., Keshev, M., Asatryan, M., Johnson, K., &amp; Dillon, B. (2023). Predicting disjoint reference: offline and online evidence. Presentation at the 36th Annual Conference on Human Sentence Processing (HSP), University of Pittsburgh. <a href="/projects/your-file-name.pdf">poster</a>
 	</li>
 	<br>
 	<li>
