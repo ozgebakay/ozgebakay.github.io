@@ -11,9 +11,6 @@ Describe your research interests here.
 	<li>
 		Bakay, Ö., Co-author, A., &amp; Advisor, B. (Year). Title of the journal article: Capitalize only the first word of the title and subtitle. <i>Journal of Memory and Language</i>, <i>Volume</i>(Issue), pages–pages. https://doi.org/xx.xxx/xxxx
 		<div class="button-container" style="margin-top: 5px;">
-			<a href="/assets/pdfs/your-paper-1.pdf"><div class="color-button" style="display:inline-block;">pdf</div></a>
-			<a href="#bibtex-id-1"><div class="color-button" style="display:inline-block;">cite</div></a>
-			<a href="https://github.com/yourusername/project-repo"><div class="color-button" style="display:inline-block;">code</div></a>
 		</div>
 	</li>
 	<br>
