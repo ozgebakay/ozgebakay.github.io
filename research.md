@@ -15,13 +15,13 @@ Describe your research interests here.
 	</li>
 	<br>
 	<li>
-		Deniz, N. D., <b>Bakay, Ö.</b>, & Kurt, D. (2023). (Reversed) Mismatch Asymmetry in English Subject-Verb Agreement. <i>Dilbilim Araştırmaları Dergisi [Journal of Linguistics Research]</i>, 34(1), 1–26. https://doi.org/http://doi.org/10.18492/dad.1181172
+		Deniz, N. D., <b>Bakay, Ö.</b>, & Kurt, D. (2023). (Reversed) Mismatch Asymmetry in English Subject-Verb Agreement. <i>Dilbilim Araştırmaları Dergisi [Journal of Linguistics Research]</i>, 34(1), 1–26. <a href="https://doi.org/http://doi.org/10.18492/dad.1181172">link</a>
 		<div class="button-container" style="margin-top: 5px;">
 		</div>
 	</li>
 	<br>
 	<li>
-		<b>Bakay, Ö.</b>, Avar, B. & Yıldız, O. T. (2019). A tree-based approach for English-to-Turkish translation. <i>Turkish Journal of Electrical Engineering & Computer Sciences, 27</i>(1), 437-452. https://doi.org/10.3906/elk-1807-341
+		<b>Bakay, Ö.</b>, Avar, B. & Yıldız, O. T. (2019). A tree-based approach for English-to-Turkish translation. <i>Turkish Journal of Electrical Engineering & Computer Sciences, 27</i>(1), 437-452. <a href="[https://doi.org/10.1016/j.jml.2026.104747](https://doi.org/10.3906/elk-1807-341)">link</a>
 	</li>
 </ul>
 
