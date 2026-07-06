@@ -6,10 +6,10 @@ title: Research
 
 Describe your research interests here.
 
-<h2>Publications</h2>
+<h2>Journal Articles</h2>
 <ul>
 	<li>
-		Bakay, Ö., Co-author, A., &amp; Advisor, B. (Year). Title of the journal article: Capitalize only the first word of the title and subtitle. <i>Journal of Memory and Language</i>, <i>Volume</i>(Issue), pages–pages. https://doi.org/xx.xxx/xxxx
+		Bakay, Ö., Akkuş, F., & Dillon, B. (2026). Hierarchical relations guide memory retrieval in sentence comprehension: Evidence from a local anaphor in Turkish. Journal of Memory and Language, 148. 104747. https://doi.org/10.1016/j.jml.2026.104747
 		<div class="button-container" style="margin-top: 5px;">
 		</div>
 	</li>
