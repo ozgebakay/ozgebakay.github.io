@@ -11,7 +11,7 @@ Selected presentations from peer-reviewed conferences (see my CV for the full li
 	</li>
 	<br>
 	<li>
-		<b>Bakay, Ö.</b>, Türk, U., Demiray, D., &amp; Dillon, B. (2026). Tracking structural cues or relying on probabilistic inference in Turkish agreement? Talk at the 39th Annual Conference on Human Sentence Processing (HSP). <a href="/projects/HSP2026_BakayEtAl_TurkishAgreement.pdf">slides</a>
+		<b>Bakay, Ö.</b>, Türk, U., Demiray, D., &amp; Dillon, B. (2026). Tracking structural cues or relying on probabilistic inference in Turkish agreement? Talk at the 39th Annual Conference on Human Sentence Processing (HSP), Massachusetts Institute of Technology. <a href="/projects/HSP2026_BakayEtAl_TurkishAgreement.pdf">slides</a>
 	</li>
 	<br>
 	<li>
