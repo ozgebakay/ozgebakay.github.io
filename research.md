@@ -9,7 +9,7 @@ Describe your research interests here.
 <h2>Journal Articles</h2>
 <ul>
 	<li>
-		<b>Bakay, Ö.</b>, Akkuş, F., & Dillon, B. (2026). Hierarchical relations guide memory retrieval in sentence comprehension: Evidence from a local anaphor in Turkish. <i>Journal of Memory and Language, 148</i>. 104747. https://doi.org/10.1016/j.jml.2026.104747
+		<b>Bakay, Ö.</b>, Akkuş, F., & Dillon, B. (2026). Hierarchical relations guide memory retrieval in sentence comprehension: Evidence from a local anaphor in Turkish. <i>Journal of Memory and Language, 148</i>. 104747. <href>https://doi.org/10.1016/j.jml.2026.104747</href>
 		<div class="button-container" style="margin-top: 5px;">
 		</div>
 	</li>
