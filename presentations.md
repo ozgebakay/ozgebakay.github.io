@@ -19,10 +19,6 @@ Selected presentations from peer-reviewed conferences (see my CV for the full li
 	</li>
 	<br>
 	<li>
-		<b>Bakay, Ö.</b>, &amp; Dinçtopal Deniz, N. (2021). Case interference and phrase length effects in processing Turkish center-embeddings. Presentation at the 34th Annual Conference on Human Sentence Processing (HSP), University of Pennsylvania. <a href="/projects/your-file-name.pdf">slides</a>
-	</li>
-	<br>
-	<li>
 		<b>Bakay, Ö.</b>, &amp; Akkuş, F. (2025). An experimental investigation of conjunct agreement in Turkish. Presentation at the 10th Workshop on Turkic and Languages in Contact with Turkic (Tu+), University of Southern California. <a href="/projects/your-file-name.pdf">slides</a>
 	</li>
 	<br>
