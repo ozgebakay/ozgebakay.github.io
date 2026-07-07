@@ -19,15 +19,11 @@ Selected presentations from peer-reviewed conferences (see my CV for the full li
 	</li>
 	<br>
 	<li>
-		Deniz, N.D., <b>Bakay, Ö.</b>, &amp; Kornfilt, J. (2024). Effects of surprisal in (long-distance) licensing of Turkish NPIs. Posterp presentation at the 37th Annual Conference on Human Sentence Processing (HSP), University of Michigan. <a href="/projects/HSP2024_NPI_Poster_May8.pdf">poster</a>
-	</li>
-	<br>
-	<li>
 		<b>Bakay, Ö.</b>, Burnsky, J., Keshev, M., Asatryan, M., Johnson, K., &amp; Dillon, B. (2023). Predicting disjoint reference: offline and online evidence. Poster presentation at the 36th Annual Conference on Human Sentence Processing (HSP), University of Pittsburgh. <a href="/projects/Bakayetal2023_HSP.pdf">poster</a>
 	</li>
 	<br>
 	<li>
-		<b>Bakay, Ö.</b>, &amp; Dillon, B. (2022). C-command effects in binding third-person reflexives and pronoun in Turkish. Poster presentation at the 35th Annual Conference on Human Sentence Processing (HSP), University of California Santa Cruz. <a href="/projects/HSP2022BakayDillon.pdf">slides</a>
+		<b>Bakay, Ö.</b>, &amp; Dillon, B. (2022). C-command effects in binding third-person reflexives and pronoun in Turkish. Poster presentation at the 35th Annual Conference on Human Sentence Processing (HSP), University of California Santa Cruz. <a href="/projects/HSP2022BakayDillon.pdf">abstract</a>
 	</li>
 	<br>
 	<li>
