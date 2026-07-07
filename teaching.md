@@ -14,7 +14,7 @@ TA for LING412 Language Processing and the Brain, Fall 2024 (Instructor: Shota M
 
 TA for LING394BIE Language and Cognition, Spring 2024 (Instructor: John Kingston).
 
-TA for LING101 People and Their Language, Fall 2023 (Instructor: Rajesh Bhatt). The materials of Discussion Sections AA & AE are here.
+TA for LING101 People and Their Language, Fall 2023 (Instructor: Rajesh Bhatt). 
 
 <b>Language Teaching</b>
 
