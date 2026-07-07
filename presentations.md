@@ -25,6 +25,9 @@ Selected presentations from peer-reviewed conferences (see my <a href="/cv/OzgeB
 		<b>Bakay, Ö.</b>, Burnsky, J., Keshev, M., Asatryan, M., Johnson, K., &amp; Dillon, B. (2023). Predicting disjoint reference: offline and online evidence. Poster presentation at the 36th Annual Conference on Human Sentence Processing (HSP), University of Pittsburgh. <a href="/projects/Bakayetal2023_HSP.pdf">poster</a>
 	</li>
 	<br>
+	<i>
+		<b>Bakay, Ö.</b>, Akkuş, F., &amp; Dillon, B. (2023). The role of structural cues and recency in processing a preverbal anaphor in Turkish. Poster presentation at the 29th Architectures and Mechanisms for Language Processing (AMLaP) Conference, Basque Center on Cognition, Brain and Language, San Sebastian, Spain. <a href="/projects/Bakayetal2023_AMLaP.pdf">poster</a>
+	</i>
 	<li>
 		<b>Bakay, Ö.</b>, &amp; Dillon, B. (2022). C-command effects in binding third-person reflexives and pronoun in Turkish. Poster presentation at the 35th Annual Conference on Human Sentence Processing (HSP), University of California Santa Cruz. <a href="/projects/HSP2022BakayDillon.pdf">abstract</a>
 	</li>
@@ -39,7 +42,7 @@ Selected presentations from peer-reviewed conferences (see my <a href="/cv/OzgeB
 	<br>
 	<li>
 		<b>Bakay, Ö.</b> &amp; Dinçtopal Deniz, N. (2020). Missing-verb illusion in Turkish center-embeddings?: An
-investigation of case interference and phrase lengths. Poster presentation at the 24th Annual Conference on Acrchitectures and Mechanisms for Language Processing (AMLaP), University of Potsdam. <a href="/projects/AmLaP2020BakayDinctopalDeniz.pdf">slides</a>
+investigation of case interference and phrase lengths. Poster presentation at the 24th Acrchitectures and Mechanisms for Language Processing (AMLaP) Conference, University of Potsdam. <a href="/projects/AmLaP2020BakayDinctopalDeniz.pdf">slides</a>
 	</li>
 	<br>
 </ul>
