@@ -1,4 +1,9 @@
-<dl id="" class="wp-caption align{{include.align}}" style="width: {{include.width}}px !important; max-width: 100% !important;">
-<dt><a href="{{ site.baseurl }}{{ include.href }}"><img class="" src="{{ site.baseurl }}{{ include.url }}" alt="{{ include.caption }}" style="width: 100% !important; height: auto !important; object-fit: contain !important;" /></a></dt>
-<dd>{{ include.caption }}</dd>
-</dl>
+<div class="align{{include.align}}" style="width: {{include.width}}px !important; max-width: 100% !important;">
+  {% if include.href %}
+    <a href="{{ site.baseurl }}{{ include.href }}">
+      <img src="{{ site.baseurl }}{{ include.url }}" alt="{{ include.caption }}" style="width: 100% !important; height: auto !important; object-fit: contain !important;" />
+    </a>
+  {% else %}
+    <img src="{{ site.baseurl }}{{ include.url }}" alt="{{ include.caption }}" style="width: 100% !important; height: auto !important; object-fit: contain !important;" />
+  {% endif %}
+</div>
