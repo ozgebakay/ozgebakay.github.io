@@ -39,7 +39,7 @@ Selected presentations from peer-reviewed conferences (see my <a href="/cv/OzgeB
 	<br>
 	<li>
 		<b>Bakay, Ö.</b> &amp; Dinçtopal Deniz, N. (2020). Missing-verb illusion in Turkish center-embeddings?: An
-investigation of case interference and phrase lengths. Poster presentation at the 24th Annual Conference on Acrchitectures and Mechanisms for Language Processing (AMLaP), University of Potsdam. <a href="/projects/AmLaP2020BakayDinctopalDeniz.pdf.pdf">slides</a>
+investigation of case interference and phrase lengths. Poster presentation at the 24th Annual Conference on Acrchitectures and Mechanisms for Language Processing (AMLaP), University of Potsdam. <a href="/projects/AmLaP2020BakayDinctopalDeniz.pdf">slides</a>
 	</li>
 	<br>
 </ul>
