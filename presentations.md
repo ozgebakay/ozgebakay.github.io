@@ -32,5 +32,14 @@ Selected presentations from peer-reviewed conferences (see my <a href="/cv/OzgeB
 	<li>
 		<b>Bakay, Ö.</b>, &amp; Dinçtopal Deniz, N. (2021). Case interference and phrase length effects in processing Turkish center-embeddings. Poster presentation at the 34th Annual Conference on Human Sentence Processing (HSP), University of Pennsylvania. <a href="/projects/CUNY2021BakayDinctopalDeniz.pdf">slides</a>
 	</li>
-<br>
+	<br>
+	<li>
+		Kurt, D.,  &amp;<b>Bakay, Ö.</b> (2021). Türkçede Çift Geçişli Fiilleri İşlemlemede Tematik Rolün Etkisi [The role of animacy in processing ditransitive verbs in Turkish]. Virtual talk at the 34th National Linguistics Congress in Turkey (UDK), Middle East Technical University. <a href="/projects/50KurtBakay.pdf">abstract</a>
+	</li>
+	<br>
+	<li>
+		<b>Bakay, Ö.</b> &amp; Dinçtopal Deniz, N. (2020). Missing-verb illusion in Turkish center-embeddings?: An
+investigation of case interference and phrase lengths. Poster presentation at the 24th Annual Conference on Acrchitectures and Mechanisms for Language Processing (AMLaP), University of Potsdam. <a href="/projects/AmLaP2020BakayDinctopalDeniz.pdf.pdf">slides</a>
+	</li>
+	<br>
 </ul>
