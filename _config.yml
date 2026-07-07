@@ -12,7 +12,7 @@ url: "https://ozgebakay.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:     ozgebakay
 linkedin_username:   ozge-bakay-294571131
-scholar_id:          Özge BAKAY
+scholar_id:          https://scholar.google.com/citations?user=jn6T68oAAAAJ&hl=en&authuser=1
 bluesky_username:    ozgebakay.bsky.social
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
