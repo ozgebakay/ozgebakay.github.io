@@ -2,6 +2,9 @@
 layout: page
 permalink: /presentations/
 title: Presentations
+head_inline: |
+  <meta name="citation_author" content="Bakay, Özge">
+  <meta name="citation_title" content="Linguistic Research and Conference Presentations Portfolio">
 ---
 Selected presentations from peer-reviewed conferences (see my <a href="/cv/OzgeBakay_CV.pdf">CV</a> for the full list)
 
@@ -27,7 +30,7 @@ Selected presentations from peer-reviewed conferences (see my <a href="/cv/OzgeB
 	</li>
 	<br>
 	<li>
-	<b>Bakay, Ö.</b>, &amp; Dinçtopal Deniz, N. (2021). Case interference and phrase length effects in processing Turkish center-embeddings. Presentation at the 34th Annual Conference on Human Sentence Processing (HSP), University of Pennsylvania. <a href="/projects/CUNY2021BakayDinctopalDeniz.pdf">slides</a>
-</li>
+		<b>Bakay, Ö.</b>, &amp; Dinçtopal Deniz, N. (2021). Case interference and phrase length effects in processing Turkish center-embeddings. Presentation at the 34th Annual Conference on Human Sentence Processing (HSP), University of Pennsylvania. <a href="/projects/CUNY2021BakayDinctopalDeniz.pdf">slides</a>
+	</li>
 <br>
 </ul>
