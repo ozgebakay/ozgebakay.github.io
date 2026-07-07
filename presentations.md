@@ -23,7 +23,7 @@ Selected presentations from peer-reviewed conferences (see my CV for the full li
 	</li>
 	<br>
 	<li>
-		<b>Bakay, Ö.</b>, &amp; Dillon, B. (2022). C-command effects in binding third-person reflexives and pronoun in Turkish. Poster presentation at the 35th Annual Conference on Human Sentence Processing (HSP), University of California Santa Cruz. <a href="/projects/HSP2022Bakay&Dillon_revised.pdf">slides</a>
+		<b>Bakay, Ö.</b>, &amp; Dillon, B. (2022). C-command effects in binding third-person reflexives and pronoun in Turkish. Poster presentation at the 35th Annual Conference on Human Sentence Processing (HSP), University of California Santa Cruz. <a href="/projects/HSP2022BakayDillon_revised.pdf">slides</a>
 	</li>
 	<br>
 </ul>
