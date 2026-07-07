@@ -4,7 +4,7 @@ permalink: /presentations/
 title: Presentations
 head_inline: |
   <meta name="citation_author" content="Bakay, Özge">
-  <meta name="citation_title" content="Linguistic Research and Conference Presentations Portfolio">
+  <meta name="citation_title" content="Conference Presentations">
 ---
 Selected presentations from peer-reviewed conferences (see my <a href="/cv/OzgeBakay_CV.pdf">CV</a> for the full list)
 
