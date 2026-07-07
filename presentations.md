@@ -34,7 +34,7 @@ Selected presentations from peer-reviewed conferences (see my <a href="/cv/OzgeB
 	</li>
 	<br>
 	<li>
-		Kurt, D.,  &amp;<b>Bakay, Ö.</b> (2021). Türkçede Çift Geçişli Fiilleri İşlemlemede Tematik Rolün Etkisi [The role of animacy in processing ditransitive verbs in Turkish]. Virtual talk at the 34th National Linguistics Congress in Turkey (UDK), Middle East Technical University. <a href="/projects/50KurtBakay.pdf">abstract</a>
+		Kurt, D.,  &amp; <b>Bakay, Ö.</b> (2021). Türkçede Çift Geçişli Fiilleri İşlemlemede Tematik Rolün Etkisi [The role of animacy in processing ditransitive verbs in Turkish]. Virtual talk at the 34th National Linguistics Congress in Turkey (UDK), Middle East Technical University. <a href="/projects/50KurtBakay.pdf">abstract</a>
 	</li>
 	<br>
 	<li>
