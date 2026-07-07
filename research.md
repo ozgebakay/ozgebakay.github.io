@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: Publications
 ---
 
 <h2>Journal Articles</h2>
