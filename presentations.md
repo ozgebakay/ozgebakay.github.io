@@ -15,11 +15,11 @@ Selected presentations from peer-reviewed conferences (see my CV for the full li
 	</li>
 	<br>
 	<li>
-		<b>Bakay, Ö.</b>, &amp; Akkuş, F. (2025). An experimental investigation of conjunct agreement in Turkish. Talk at the 61st Chicago Linguistics Society (CLS), University of Chicago. <a href="/projects/BakayAkkusCLS61.pdf">paper</a>
+		<b>Bakay, Ö.</b>, &amp; Akkuş, F. (2025). An experimental investigation of conjunct agreement in Turkish. Talk at the 61st Chicago Linguistics Society (CLS), University of Chicago. <a href="/projects/BakayAkkusCLS61.pdf">paper</a> 
 	</li>
 	<br>
 	<li>
-		Deniz, N.D., <b>Bakay, Ö.</b>, &amp; Kornfilt, J. (2024). Effects of surprisal in (long-distance) licensing of Turkish NPIs. Posterp presentation at the 37th Annual Conference on Human Sentence Processing (HSP), University of Michigan. <a href="https://ozgebakay.github.io/projects/HSP2024_NPI_Poster_May8.pdf">poster</a>
+		Deniz, N.D., <b>Bakay, Ö.</b>, &amp; Kornfilt, J. (2024). Effects of surprisal in (long-distance) licensing of Turkish NPIs. Posterp presentation at the 37th Annual Conference on Human Sentence Processing (HSP), University of Michigan. <a href="/projects/HSP2024_NPI_Poster_May8.pdf">poster</a>
 	</li>
 	<br>
 	<li>
