@@ -31,7 +31,7 @@ Selected presentations from peer-reviewed conferences (see my <a href="/cv/OzgeB
 	</li>
 	<br>
 	<li>
-		<b>Bakay, Ö.</b>, &amp; Dinçtopal Deniz, N. (2021). Case interference and phrase length effects in processing Turkish center-embeddings. <i>Poster presentation at the 34th Annual Conference on Human Sentence Processing (HSP), University of Pennsylvania</i>. <a href="/projects/CUNY2021BakayDinctopalDeniz.pdf">slides</a>
+		<b>Bakay, Ö.</b>, &amp; Dinçtopal Deniz, N. (2021). Case interference and phrase length effects in processing Turkish center-embeddings. <i>Poster presentation at the 34th Annual Conference on Human Sentence Processing (HSP), University of Pennsylvania</i>. <a href="https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_37.pdf">abstract</a>
 	</li>
 	<br>
 	<li>
