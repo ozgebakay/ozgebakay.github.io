@@ -8,7 +8,7 @@ Selected presentations from peer-reviewed conferences (see my <a href="/cv/OzgeB
 {% assign sorted = site.presentations | sort: "year" | reverse %}
 {% for p in sorted %}
 	<li>
-		{% for author in p.authors %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+		{% for author in p.authors %}{% if author contains "Bakay" %}<b>{{ author }}</b>{% else %}{{ author }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}
 		({{ p.year }}). <a href="{{ p.url }}">{{ p.title }}</a>. <i>{{ p.venue }}</i>.
 		{% if p.pdf %}<a href="{{ p.pdf }}">{{ p.link_label }}</a>{% endif %}
 	</li>
