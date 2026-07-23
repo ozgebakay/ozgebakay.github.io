@@ -7,5 +7,5 @@ authors:
 year: 2022
 venue: "Poster presentation at the 35th Annual Conference on Human Sentence Processing (HSP), University of California Santa Cruz"
 pdf: /projects/HSP2022BakayDillon.pdf
-link_label: abstract
+link_label: slides
 ---
