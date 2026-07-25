@@ -6,6 +6,6 @@ authors:
   - "Dillon, B."
 year: 2022
 venue: "Poster presentation at the 35th Annual Conference on Human Sentence Processing (HSP), University of California Santa Cruz"
-pdf: /projects/HSP22_Bakay_Dillon_ppt.pdf
+pdf: /projects/HSP22_Bakay_Dillon_slides.pdf
 link_label: slides
 ---
