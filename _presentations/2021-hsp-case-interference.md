@@ -7,6 +7,6 @@ authors:
 year: 2021
 venue: "Poster presentation at the 34th Annual Conference on Human Sentence Processing (HSP), University of Pennsylvania"
 pdf: "/projects/CUNY2021Bakay_DinctopalDeniz_slides.pdf"
-link_label: abstract
+link_label: slides
 external_pdf: true
 ---
