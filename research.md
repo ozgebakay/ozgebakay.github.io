@@ -13,13 +13,13 @@ title: Publications
 	</li>
 	<br>
 	<li>
-		Dinçtopal Deniz, N., <b>Bakay, Ö.</b>, &amp; Deniz, C. M. (2026). Subject–verb agreement by Turkish speakers of English: Differential cue-weighting in L1 and L2 and distinct mechanisms for comprehension and production. <i>Bilingualism: Language and Cognition</i>, 1–12. <a href="https://doi.org/10.1017/S1366728926101497">link</a>
+		Deniz, N. D., <b>Bakay, Ö.</b>, &amp; Deniz, C. M. (2026). Subject–verb agreement by Turkish speakers of English: Differential cue-weighting in L1 and L2 and distinct mechanisms for comprehension and production. <i>Bilingualism: Language and Cognition</i>, 1–12. <a href="https://doi.org/10.1017/S1366728926101497">link</a>
 		<div class="button-container" style="margin-top: 5px;">
 		</div>
 	</li>
 	<br>
 	<li>
-		Dinçtopal Deniz, N., <b>Bakay, Ö.</b>, &amp; Kurt, D. (2023). (Reversed) Mismatch Asymmetry in English Subject-Verb Agreement. <i>Dilbilim Araştırmaları Dergisi [Journal of Linguistics Research]</i>, 34(1), 1–26. <a href="http://doi.org/10.18492/dad.1181172">link</a>
+		Deniz, N. D., <b>Bakay, Ö.</b>, &amp; Kurt, D. (2023). (Reversed) Mismatch Asymmetry in English Subject-Verb Agreement. <i>Dilbilim Araştırmaları Dergisi [Journal of Linguistics Research]</i>, 34(1), 1–26. <a href="http://doi.org/10.18492/dad.1181172">link</a>
 		<div class="button-container" style="margin-top: 5px;">
 		</div>
 	</li>
