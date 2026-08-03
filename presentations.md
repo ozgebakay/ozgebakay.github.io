@@ -3,7 +3,7 @@ layout: page
 permalink: /presentations/
 title: Presentations
 ---
-Selected presentations from peer-reviewed conferences (see my <a href="/cv/OzgeBakay_CV.pdf">CV</a> for the full list)
+Selected presentations from peer-reviewed conferences (see my <a href="/OzgeBakay_CV.pdf">CV</a> for the full list)
 <ul>
 {% assign sorted = site.presentations | sort: "year" | reverse %}
 {% for p in sorted %}
