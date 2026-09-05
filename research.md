@@ -7,6 +7,12 @@ title: Publications
 <h2>Journal Articles</h2>
 <ul>
 	<li>
+		<b>Bakay, Ö.</b>, Akkuş, F., Staub, A., &amp; Dillon, B. (Submitted). Structurally prominent linguistic items hold a privileged state in working memory: Time-course evidence for rapid access. <a href="https://osf.io/preprints/psyarxiv/aphwj_v1">link</a>
+		<div class="button-container" style="margin-top: 5px;">
+		</div>
+	</li>
+	<br>
+	<li>
 		<b>Bakay, Ö.</b>, Akkuş, F., &amp; Dillon, B. (2026). Hierarchical relations guide memory retrieval in sentence comprehension: Evidence from a local anaphor in Turkish. <i>Journal of Memory and Language, 148</i>, 104747. <a href="https://doi.org/10.1016/j.jml.2026.104747">link</a>
 		<div class="button-container" style="margin-top: 5px;">
 		</div>
