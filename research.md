@@ -46,7 +46,7 @@ title: Publications
 	</li>
 	<br>
 	<li>
-		<b>Bakay, Ö.</b>, &amp; Akkuş, F. (To appear). An experimental investigation of conjunct agreement in Turkish. <i>Proceedings of the 61st Chicago Linguistics Society (CLS)</i>. <a href="/projects/BakayAkkusCLS61.pdf">link</a>
+		<b>Bakay, Ö.</b>, &amp; Akkuş, F. (To appear). Experimental evidence for partial conjunct agreement in Turkish. <i>Proceedings of the 61st Chicago Linguistics Society (CLS)</i>. <a href="/projects/BakayAkkusCLS61.pdf">link</a>
 	</li>
 	<br>
 	<li>
